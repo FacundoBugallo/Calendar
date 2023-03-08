@@ -1,0 +1,26 @@
+body{
+    margin: 0%;
+}
+
+.january {
+    background-image: url(../Calendar/fondo/Enero.png);
+    
+}
+
+.february {
+    background-image: url(../Calendar/fondo/February.jpg);
+}
+
+.march {
+    background-image: url(../Calendar/fondo/March.jpg);
+}
+
+.box {
+    padding: 450px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text{
+
+}
